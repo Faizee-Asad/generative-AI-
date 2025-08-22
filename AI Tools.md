@@ -14,3 +14,6 @@
 
 # LLM free API
 * https://closerouter.com/login
+
+# How lovable or ohter tool created using LLM model
+* https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
