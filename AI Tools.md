@@ -7,3 +7,4 @@
 ## Free open source projet
 
 * https://github.com/kortix-ai/suna
+* https://chatgptfree.ai/
