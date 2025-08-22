@@ -11,3 +11,6 @@
 
 # Text to Video - Open source
 * https://github.com/MeiGen-AI/MultiTalk
+
+# LLM free API
+* https://closerouter.com/login
