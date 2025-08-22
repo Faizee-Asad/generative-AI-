@@ -2,3 +2,8 @@
 
 ## Paid
 * https://www.orchids.app/
+
+
+## Free open source projet
+
+* https://github.com/kortix-ai/suna
